@@ -1,0 +1,4 @@
+lab0_ex3.c: In function ‘main’:
+lab0_ex3.c:48:5: warning: format ‘%llx’ expects argument of type ‘long long unsigned int’, but argument 2 has type ‘struct gatedesc’ [-Wformat=]
+     printf("gintr is 0x%llx\n",gintr);
+     ^
